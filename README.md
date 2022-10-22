@@ -29,8 +29,8 @@ align="right" alt="Vic-gif" src="https://cdn.discordapp.com/attachments/79535891
 ##
   
 <div> 
-  <a target="_blank"
-  href="https://www.instagram.com/ovictorpaiva/?hl=pt-br"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a target="_blank
+  href=https://www.instagram.com/ovictorpaiva/?hl=pt-br"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a> 
   
   <a target="_blank"
