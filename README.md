@@ -5,11 +5,6 @@
 - 😄 Pronouns: Ele/Dele.
 - "Tudo o que um sonho precisa para ser realizado é alguém que acredite que ele possa ser realizado" 
 
-<div>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ViictorPaiva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viictorpaiva&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
-
 ###
 
   <a href="https://instagram.com/ovictorpaiva" target="_blank"><img src="https://img.icons8.com/ios/40/FFFFFF/instagram-new--v1.png" target="_blank"></a>
@@ -29,6 +24,10 @@
 #### 📚 No momento eu estou estudando...
   <img align="center" alt="Aline-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  
+ <div>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ViictorPaiva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viictorpaiva&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
  
  <!--
  <div style="display: inline_block"><br>
