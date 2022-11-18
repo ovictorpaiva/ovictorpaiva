@@ -22,10 +22,7 @@
 
 ###
   
-  <a target="_blank"
-     href="https://instagram.com/alineguiseline" target="_blank"><img src="https://img.icons8.com/ios/40/FFFFFF/instagram-new--v1.png" target="_blank"></a>
-  <a 
-     href="https://www.linkedin.com/in/alineguiseline/" target="_blank"><img src="https://img.icons8.com/ios-filled/40/FFFFFF/linkedin-circled--v1.png" target="_blank"></a>
-  <a 
-     href = "mailto:alineguiseline@gmail.com"><img src="https://img.icons8.com/glyph-neue/40/FFFFFF/gmail.png" target="_blank"></a>
+  <a href="https://instagram.com/ovictorpaiva" target="_blank"><img src="https://img.icons8.com/ios/40/FFFFFF/instagram-new--v1.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ovictorpaiva/" target="_blank"><img src="https://img.icons8.com/ios-filled/40/FFFFFF/linkedin-circled--v1.png" target="_blank"></a>
+  <a href = "mailto:victor.eagpaiva@gmail.com"><img src="https://img.icons8.com/glyph-neue/40/FFFFFF/gmail.png" target="_blank"></a>
   
