@@ -2,7 +2,6 @@
 
 - 👨‍💻 Cursando ADS (Análise e Desenvolvimento de Sistemas).
 - 🥰 Amante de Técnologia, jogos, IA.
-- 👾 Interesse na área de games.
 - 💭"Tudo o que um sonho precisa para ser realizado é alguém que acredite que ele possa ser realizado" - Roberto Shinyashiki
 
 ##
